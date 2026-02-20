@@ -5,7 +5,10 @@ export default function Home() {
         <h1 className="text-5xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-7xl">Test Link</h1>
         <ul>
           <li className="text-2xl text-gray-500 dark:text-gray-400">
-            <a href="https://app.true.th/profile" className="underline">https://app.true.th/profile</a>
+            <a href="https://app.true.th/more" className="underline">https://app.true.th/more</a>
+          </li>
+          <li className="text-2xl text-gray-500 dark:text-gray-400">
+            <a href="https://app.true.th/more?openWebview=1" className="underline">https://app.true.th/more?openWebview=1</a>
           </li>
         </ul>
       </main >
