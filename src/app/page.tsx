@@ -8,7 +8,7 @@ export default function Home() {
             <a href="https://app.true.th/profile/?openWebview=1" className="underline">With</a>
           </li>
           <li className="text-2xl text-gray-500 dark:text-gray-400">
-            <a href="https://app.true.th/profile/" className="underline">Without</a>
+            <a href="https://app.true.th/profile/?openWebview=0" className="underline">Without</a>
           </li>
         </ul>
       </main >
